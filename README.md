@@ -2,7 +2,7 @@
 
 ## Project Overview
 
--   Utilized: FastAPI, LLMFlow, Confluence, Notion,
+-   Utilized: FastAPI, Notion,
 
 ---
 
