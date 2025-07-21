@@ -2,7 +2,7 @@
 
 ## Project Overview
 
--   Utilized: FastAPI, Notion,
+-   Utilized: FastAPI, Notion, AWS EC2, AWS S3
 
 ---
 
@@ -13,3 +13,7 @@
 -   [MySQL](https://dev.mysql.com/doc/)
 -   [Pydantic](https://docs.pydantic.dev/)
 -   [Design System](https://primer.style/components)
+
+---
+
+## AWS START
